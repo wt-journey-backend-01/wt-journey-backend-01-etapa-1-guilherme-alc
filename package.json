@@ -2,7 +2,7 @@
   "name": "wt-journey-backend-01-wt-journey-backend-01-etapa-1-etapa1-template",
   "version": "1.0.0",
   "description": "Bem-vindo(a) ao desafio de desenvolvimento do protótipo de um cardápio digital para a nossa nova hamburgueria gourmet, a \"DevBurger\"!",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
